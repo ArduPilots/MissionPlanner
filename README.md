@@ -8,9 +8,9 @@ Forum : http://discuss.ardupilot.org/c/ground-control-software/mission-planner
 
 Download latest stable version : http://firmware.ardupilot.org/Tools/MissionPlanner/MissionPlanner-latest.msi
 
-Changelog : https://github.com/ArduPilot/MissionPlanner/blob/master/ChangeLog.txt
+Changelog : https://github.com/ArduPilots/MissionPlanner/blob/master/ChangeLog.txt
 
-License : https://github.com/ArduPilot/MissionPlanner/blob/master/COPYING.txt
+License : https://github.com/ArduPilots/MissionPlanner/blob/master/COPYING.txt
 
 
 ## How to compile
