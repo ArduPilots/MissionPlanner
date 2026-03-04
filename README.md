@@ -1,6 +1,6 @@
 # MissionPlanner
 
-![Dot Net](https://github.com/ardupilot/missionplanner/actions/workflows/main.yml/badge.svg) ![Android](https://github.com/ardupilot/missionplanner/actions/workflows/android.yml/badge.svg) ![OSX/IOS](https://github.com/ardupilot/missionplanner/actions/workflows/mac.yml/badge.svg)
+![Dot Net](https://github.com/ardupilots/missionplanner/actions/workflows/main.yml/badge.svg) ![Android](https://github.com/ardupilots/missionplanner/actions/workflows/android.yml/badge.svg) ![OSX/IOS](https://github.com/ardupilots/missionplanner/actions/workflows/mac.yml/badge.svg)
 
 Website : http://ardupilot.org/planner/
 
